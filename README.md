@@ -1,2 +1,0 @@
-# sml10
-wswds
